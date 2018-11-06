@@ -3,8 +3,21 @@
 小黑屋支持版本:1.8.8(200)以上.
 
 ### 添加依赖
+
+Add it in your root build.gradle at the end of repositories:
 ```
-//Todo
+   	allprojects {
+   		repositories {
+   			...
+   			maven { url 'https://jitpack.io' }
+   		}
+   	}
+```
+Add the dependency
+```
+   	dependencies {
+   	        implementation 'com.github.web1n:stopapp-sdk:0.01'
+   	}
 ```
 
 ### 调用
