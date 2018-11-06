@@ -1,0 +1,8 @@
+/*
+ * Created by web1n.
+ * Project $PROJECT_NAME.
+ * 18-11-6 下午10:31.
+ * lizhik@yeah.net
+ */
+
+include ':app', ':stopapp_sdk'

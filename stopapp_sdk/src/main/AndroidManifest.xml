@@ -1,0 +1,12 @@
+<!--
+  ~ Created by web1n.
+  ~ Project $PROJECT_NAME.
+  ~ 18-11-6 下午10:31.
+  ~ lizhik@yeah.net
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.web1n.stopapp_sdk">
+
+    <uses-permission android:name="web1n.stopapp.permission.disable_api" />
+</manifest>
